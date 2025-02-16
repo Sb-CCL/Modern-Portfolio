@@ -18,8 +18,8 @@ const projectData = [
       "Bcrypt",
       "JSON Web Tokens",
     ],
-    link: [""],
-    code: [""],
+    link: ["https://"],
+    code: ["https://"],
   },
   {
     title: "Portfolio.",

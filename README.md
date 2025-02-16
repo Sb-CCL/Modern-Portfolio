@@ -3,9 +3,10 @@
 [![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat&logoColor=white)](https://ui.shadcn.com/)
 [![Lighthouse](https://img.shields.io/badge/best%20practices-100%25-success?style=flat-square&logo=google-chrome&logoColor=white)](https://)
 [![Lighthouse](https://img.shields.io/badge/accessibility-98%25-brightgreen?style=flat-square&logo=accessibility&logoColor=white)](https://)
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D16.16.0-brightgreen)](https://nodejs.org/)
 [![Package Manager](https://img.shields.io/badge/pkg%20manager-npm%20%7C%20yarn-orange)]()
 
 [![Live Demo](https://img.shields.io/badge/vercel-live%20demo-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://sb-modern-portfolio.vercel.app/)
