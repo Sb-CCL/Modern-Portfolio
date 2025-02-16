@@ -71,8 +71,8 @@ A production-optimized React portfolio achieving 98% accessibility and 82% SEO L
 ```bash
 ├── public/
 │   └── screenshot.png
-│   └── favicon.png
 │   └── project-videos.mp4
+│   └── favicon.png
 ├── src/
 │   ├── assets/           # Static resources
 │   ├── components/       # Reusable components

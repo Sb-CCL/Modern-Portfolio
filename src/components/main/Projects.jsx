@@ -18,8 +18,8 @@ const projectData = [
       "Bcrypt",
       "JSON Web Tokens",
     ],
-    link: ["https://"],
-    code: ["https://"],
+    link: ["https://exposome-insights.vercel.app/"],
+    code: ["https://github.com/Sb-CCL/Exposome-Insights"],
   },
   {
     title: "Portfolio.",
